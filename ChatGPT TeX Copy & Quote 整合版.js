@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT TeX Copy & Quote 整合版
 // @namespace    http://tampermonkey.net/
-// @version      0.0.1
+// @version      1.0.1
 // @downloadURL  https://raw.githubusercontent.com/lueluelue2006/ChatGPT-Better-TeX-Quote/main/ChatGPT%20TeX%20Copy%20%26%20Quote%20%E6%95%B4%E5%90%88%E7%89%88.js
 // @updateURL    https://raw.githubusercontent.com/lueluelue2006/ChatGPT-Better-TeX-Quote/main/ChatGPT%20TeX%20Copy%20%26%20Quote%20%E6%95%B4%E5%90%88%E7%89%88.js
 // @description  让 ChatGPT 的“Ask ChatGPT”引用和普通复制，对包含 KaTeX 的选区优先返回原始 LaTeX（$...$ / $$...$$），不改动 DOM，不叠加多余文本，跨行选区也保持稳定；整合了 TexCopyer 的双击复制功能。
