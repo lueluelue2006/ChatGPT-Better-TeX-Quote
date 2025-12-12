@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ChatGPT TeX Copy & Quote 整合版
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/lueluelue2006/ChatGPT-Better-TeX-Quote
 // @version      1.0.1
 // @downloadURL  https://raw.githubusercontent.com/lueluelue2006/ChatGPT-Better-TeX-Quote/main/ChatGPT%20TeX%20Copy%20%26%20Quote%20%E6%95%B4%E5%90%88%E7%89%88.js
 // @updateURL    https://raw.githubusercontent.com/lueluelue2006/ChatGPT-Better-TeX-Quote/main/ChatGPT%20TeX%20Copy%20%26%20Quote%20%E6%95%B4%E5%90%88%E7%89%88.js
